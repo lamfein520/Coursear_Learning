@@ -6,6 +6,11 @@ h1 {
     color: #721817;
 }
 
+h2 > span {
+    color: #fa9f42;
+    font-size: 0.75em;
+}
+
 h2 {
     color: #721817;
 }
@@ -20,10 +25,6 @@ h2 {
     display: block;
 }
 
-h2 span {
-    color: #fa9f42;
-    font-size: 0.75em;
-}
 
 #copyright {
     padding-top: 12px;
